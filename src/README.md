@@ -3,8 +3,9 @@ home: true
 layout: Blog
 icon: home
 title: Home
-heroImage: /logo.svg
+heroImage: /logo.jpg
 heroText: ItsBioDude MC
+bgImage: /bg.png
 tagline: I share small tips, guides and feature amazing mods and resourcepacks here
 # heroFullScreen: true
 projects:

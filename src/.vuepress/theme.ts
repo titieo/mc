@@ -3,26 +3,28 @@ import navbar from "./navbar";
 import sidebar from "./sidebar";
 
 export default hopeTheme({
-  hostname: "https://vuepress-theme-hope-v2-demo.mrhope.site",
+  hostname: "https://itsbiodude.github.io/mc",
 
   author: {
     name: "ItsBioDude",
     // url: "https://mrhope.site",
   },
 
+//   iconAssets: "iconfont",
   iconAssets: "iconfont",
 
-  logo: "/logo.svg",
+  logo: "/logo.jpg",
 
-  repo: "vuepress-theme-hope/vuepress-theme-hope",
+  repo: "ItsBioDude/mc",
 
-  docsDir: "demo/src",
+//   docsDir: "demo/src",
 
   // navbar
   navbar: navbar,
 
   // sidebar
-  sidebar: sidebar,
+  sidebar: false,
+//   sidebar: sidebar,
 
   footer: "Default footer",
 
@@ -34,14 +36,14 @@ export default hopeTheme({
     description: "A Highschool Pupil in Vietnam. Fall inlove with Biology & Minecraft",
     intro: "/intro.html",
     medias: {
-      Discord: "https://example.com",
-      GitHub: "https://example.com",
+      Discord: "discordapp.com/users/845978022732759071",
+      GitHub: "https://github.com/ItsBioDude",
     //   Gitlab: "https://example.com",
-      Gmail: "https://example.com",
+      Gmail: "mailto:locphuc016@gmail.com",
     //   Instagram: "https://example.com",
-      Reddit: "https://example.com",
-      Steam: "https://example.com",
-      Twitter: "https://example.com",
+      Reddit: "https://www.reddit.com/user/loctran0126",
+      Steam: "https://steamcommunity.com/id/itsbiodude/",
+    //   Twitter: "https://example.com",
     },
     roundAvatar: true,
   },

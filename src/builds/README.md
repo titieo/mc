@@ -4,7 +4,6 @@ index: false
 icon: creative
 category:
   - Guide
-layout: Blog
 ---
 
 ## Catalog
