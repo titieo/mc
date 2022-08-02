@@ -1,0 +1,47 @@
+---
+sticky: true
+category: Guides & Farms
+tag: Links
+---
+
+# Useful website and resources
+
+## Techincal Resources
+
+* [Minecraft Wiki](https://minecraft.fandom.com/wiki/Minecraft_Wiki): contains tons of useful infomation that you should stick around when enjoying minecraft
+
+* [Block & Entities Properties List](https://joakimthorsen.github.io/MCPropertyEncyclopedia/index.html): Check block properties like: transparent (for spawn proof), blast resistance,...
+
+* [Litematica Viewers](https://endingcredits.github.io/litematic-viewer/): read the name :V
+
+* [Minecraft Categorizer](https://thiagoausechi.github.io/minecraft-categorizer/): Grouping items
+
+## Technial Discord Servers
+
+* [Reddit TMC]: TMC but it's on reddit
+
+* [TMC](https://discord.gg/CM52CAH): Discussing TMC (Farms,...)
+
+* [Tech MC Archive]
+
+* [Wither Archive]
+
+* [Iron Lovers]
+
+* [Slimestone Tech Archive]
+
+* [Storage Tech]
+
+* [Mob Farm Archive]
+
+* [Minecraft Commands]
+
+* [TNT Archive]
+
+* [Carpet]
+
+* [Tree Huggers]
+
+* [Huge Fungi Huggers]
+
+* [Cartchives]

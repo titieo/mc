@@ -3,10 +3,11 @@ import theme from "./theme";
 
 export default defineUserConfig({
   lang: "en-US",
-  title: "Theme Demo",
+  title: "ItsBioDude MC",
   description: "A demo for vuepress-theme-hope",
+//   open: true,
 
-  base: "/",
+  base: "/mc/",
 
   theme,
 });
