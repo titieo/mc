@@ -1,0 +1,5 @@
+
+User-agent:*
+Disallow:
+
+Sitemap: https://itsbiodude.github.io/mc/mc/sitemap.xml
