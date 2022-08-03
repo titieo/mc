@@ -8,38 +8,18 @@ heroText: ItsBioDude MC
 bgImage: /bg.png
 tagline: I share small tips, guides and feature amazing mods and resourcepacks about Minecraft 1.19 here
 # heroFullScreen: true
-projects:
-  - icon: project
-    name: project name
-    desc: project detailed description
-    link: https://your.project.link
+# projects:
+#   - icon: project/link/book/article/friend
+#     name: project name
+#     desc: project detailed description
+#     link: https://your.project.link
 
-  - icon: link
-    name: link name
-    desc: link detailed description
-    link: https://link.address
-
-  - icon: book
-    name: book name
-    desc: Detailed description of the book
-    link: https://link.to.your.book
-
-  - icon: article
-    name: article name
-    desc: Detailed description of the article
-    link: https://link.to.your.article
-
-  - icon: friend
-    name: friend name
-    desc: Detailed description of friend
-    link: https://link.to.your.friend
-
-  - icon: /logo.svg
-    name: custom item
-    desc: Detailed description of this custom item
-    link: https://link.to.your.friend
+#   - icon: /logo.svg
+#     name: custom item
+#     desc: Detailed description of this custom item
+#     link: https://link.to.your.friend
 
 # footer: customize your footer text
 ---
 
-For related configuration docs, please see [blog homepage](https://vuepress-theme-hope.github.io/v2/guide/blog/home/).
+Focus on [Minecraft 1.19](https://minecraft.fandom.com/wiki/Java_Edition_1.19). Let me know on the github issue if there is a wrong information or copyright issue { style="text-align:center; font-size: 0.95rem" }

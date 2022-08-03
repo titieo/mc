@@ -8,6 +8,6 @@ node_modules
 *.log
 
 # VuePress files
-# src/.vuepress/.temp
-# src/.vuepress/.cache
+src/.vuepress/.temp
+src/.vuepress/.cache
 src/.vuepress/dist
