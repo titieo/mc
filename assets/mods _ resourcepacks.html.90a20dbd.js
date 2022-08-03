@@ -1,0 +1,1 @@
+import{_ as e}from"./plugin-vue_export-helper.21dcd24c.js";import{o as r,c}from"./app.97360dd8.js";const o={};function _(s,t){return r(),c("div")}var n=e(o,[["render",_],["__file","mods & resourcepacks.html.vue"]]);export{n as default};
