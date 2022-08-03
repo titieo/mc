@@ -7,9 +7,9 @@ date: 2022-08-02
 
 # Useful website and resources
 
-## Techincal Resources
+## Technical Resources
 
-* [Minecraft Wiki](https://minecraft.fandom.com/wiki/Minecraft_Wiki): contains tons of useful infomation that you should stick around when enjoying minecraft
+* [Minecraft Wiki](https://minecraft.fandom.com/wiki/Minecraft_Wiki): contains tons of useful information that you should stick around when enjoying minecraft
 
 * [Block & Entities Properties List](https://joakimthorsen.github.io/MCPropertyEncyclopedia/index.html): Check block properties like: transparent (for spawn proof), blast resistance,...
 
@@ -17,7 +17,7 @@ date: 2022-08-02
 
 * [Minecraft Categorizer](https://thiagoausechi.github.io/minecraft-categorizer/): Grouping items
 
-## Technial Discord Servers
+## Technical Discord Servers
 
 * [Reddit TMC]: TMC but it's on reddit
 

@@ -48,11 +48,11 @@ export default hopeTheme({
     roundAvatar: true,
   },
 
-  encrypt: {
-    config: {
-      "/guide/encrypt.html": ["1234"],
-    },
-  },
+//   encrypt: {
+//     config: {
+//       "/guide/encrypt.html": ["1234"],
+//     },
+//   },
 
   plugins: {
     blog: {
@@ -89,6 +89,7 @@ export default hopeTheme({
     mdEnhance: {
     //   enableAll: true,
     attrs: true,
+    container: true,
     // presentation: {
     //     plugins: ["highlight", "math", "search", "notes", "zoom"],
     //   },

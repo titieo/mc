@@ -31,7 +31,7 @@ jobs:
         if: ${{ github.event_name == 'push' && github.ref == 'refs/heads/master'}}
         with:
           # ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
-          # BRANCH: gh-pages
+          branch: gh-pages
           folder: .vuepress/dist/
           # CLEAN: true
   lint:

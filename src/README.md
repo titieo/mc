@@ -6,7 +6,7 @@ title: Home
 heroImage: /logo.jpg
 heroText: ItsBioDude MC
 bgImage: /bg.png
-tagline: I share small tips, guides and feature amazing mods and resourcepacks here
+tagline: I share small tips, guides and feature amazing mods and resourcepacks about Minecraft 1.19 here
 # heroFullScreen: true
 projects:
   - icon: project
