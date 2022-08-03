@@ -44,4 +44,4 @@ This farm is pretty similar to the one mentioned above though collecting system 
 
 <YouTube id="Y0VBqKrY9Js" />
 
-This one probally overkill for singleplayer, though it looks pretty cool. Be sure to check out Nubtech discord
+This one probably overkill for singleplayer, though it looks pretty cool. Be sure to check out Nubtech discord

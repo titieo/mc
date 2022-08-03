@@ -22,4 +22,4 @@ tagline: I share small tips, guides and feature amazing mods and resourcepacks a
 # footer: customize your footer text
 ---
 
-Focus on [Minecraft 1.19](https://minecraft.fandom.com/wiki/Java_Edition_1.19). Let me know on the github issue if there is a wrong information or copyright issue { style="text-align:center; font-size: 0.95rem" }
+Focus on [Minecraft 1.19](https://minecraft.fandom.com/wiki/Java_Edition_1.19) Singleplayer. Let me know on the github issue if there is a wrong information or copyright issue { style="text-align:center; font-size: 0.95rem" }
