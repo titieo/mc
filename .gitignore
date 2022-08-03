@@ -7,8 +7,7 @@ node_modules
 # Log files
 *.log
 
-# VuePress temp directory
-**/.temp
-
-# Docs dist directory
-/vuepress
+# VuePress files
+# src/.vuepress/.temp
+# src/.vuepress/.cache
+src/.vuepress/dist

@@ -32,7 +32,7 @@ jobs:
         with:
           # ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
           branch: gh-pages
-          folder: .vuepress/dist/
+          folder: src/.vuepress/dist/
           # CLEAN: true
   lint:
     name: Lint
